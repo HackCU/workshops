@@ -1,2 +1,2 @@
-# workshops
-Code and Slides for Workshops
+# HackCU Workshops
+Code and Slides for our Workshops!
