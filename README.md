@@ -7,3 +7,4 @@ Code and Slides for our Workshops!
     - [Chrome Extension Workshop](HackCU-VI/Chrome-Extension-Workshop/)
     - [Visual Studio Code Workshop](HackCU-VI/VS-Code-Workshop/)
     - [Data Science Workshop](HackCU-VI/Data-Science-Workshop/)
+    - [DevOps Workshop](HackCU-VI/DevOps-Workshop/)
