@@ -8,3 +8,4 @@ Code and Slides for our Workshops!
     - [Visual Studio Code Workshop](HackCU-VI/VS-Code-Workshop/)
     - [Data Science Workshop](HackCU-VI/Data-Science-Workshop/)
     - [DevOps Workshop](HackCU-VI/DevOps-Workshop/)
+    - [Github Workshop](HackCU-VI/Github-Workshop/)
