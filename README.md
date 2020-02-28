@@ -1,3 +1,10 @@
+<br>
+<p align="center">
+  <img alt="HackCU IV" src="https://raw.githubusercontent.com/HackCU/HackCU/master/assets/images/hackcu2020logo.png" width="200"/>
+</p>
+<br>
+
+
 # HackCU Workshops
 Code and Slides for our Workshops!
 
